@@ -1,0 +1,16 @@
+/.allure/
+### Intellij ###
+.idea/
+/target
+*.iml
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
