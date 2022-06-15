@@ -1,0 +1,3 @@
+certboot_email: mail@qa-jenkins.cbgr.ru
+certbot_hosts:
+  - qa-jenkins.cbgr.ru
